@@ -1,0 +1,24 @@
+// Github del curso:
+https://github.com/joanby/python-ml-course
+// Anaconda
+https://anaconda.org
+// Web de paquetes de Python
+https://pypi.org/
+
+pip install pandas
+=======================================
+Paquetes: (basicos)
+=======================================
+requieremente for other libraries
+ pip install ipykernel
+pandas - pandas.pydata.org
+NumPy - numpy.org
+matplotlib - matplotlib.org
+IPython - IPython.org
+scikit-learn - scikit-learn.org
+=======================================
+Ides:
+=======================================
+IDLE
+IPython Notebook
+Spyder
